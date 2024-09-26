@@ -53,4 +53,4 @@ Only administrators have permission to execute PHP code for security reasons. If
 - License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 ## Support
-For any issues, you can reach out to the plugin author [Randal Burger](https://www.paypal.me/codelyfe).
+For any issues, you can reach out to the plugin author codelyfe@gmail.com [Donate](https://www.paypal.me/codelyfe).
